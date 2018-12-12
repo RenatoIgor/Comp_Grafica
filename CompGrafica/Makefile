@@ -1,4 +1,4 @@
-nome = exercicio
+nome = exercicio1
 
 all :
 	clear
